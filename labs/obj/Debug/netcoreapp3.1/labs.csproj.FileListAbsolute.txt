@@ -1,0 +1,14 @@
+C:\Users\Olga\source\repos\labs\labs\bin\Debug\netcoreapp3.1\labs.exe
+C:\Users\Olga\source\repos\labs\labs\bin\Debug\netcoreapp3.1\labs.deps.json
+C:\Users\Olga\source\repos\labs\labs\bin\Debug\netcoreapp3.1\labs.runtimeconfig.json
+C:\Users\Olga\source\repos\labs\labs\bin\Debug\netcoreapp3.1\labs.runtimeconfig.dev.json
+C:\Users\Olga\source\repos\labs\labs\bin\Debug\netcoreapp3.1\labs.dll
+C:\Users\Olga\source\repos\labs\labs\bin\Debug\netcoreapp3.1\labs.pdb
+C:\Users\Olga\source\repos\labs\labs\obj\Debug\netcoreapp3.1\labs.csproj.AssemblyReference.cache
+C:\Users\Olga\source\repos\labs\labs\obj\Debug\netcoreapp3.1\labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\source\repos\labs\labs\obj\Debug\netcoreapp3.1\labs.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\labs\labs\obj\Debug\netcoreapp3.1\labs.AssemblyInfo.cs
+C:\Users\Olga\source\repos\labs\labs\obj\Debug\netcoreapp3.1\labs.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\labs\labs\obj\Debug\netcoreapp3.1\labs.dll
+C:\Users\Olga\source\repos\labs\labs\obj\Debug\netcoreapp3.1\labs.pdb
+C:\Users\Olga\source\repos\labs\labs\obj\Debug\netcoreapp3.1\labs.genruntimeconfig.cache

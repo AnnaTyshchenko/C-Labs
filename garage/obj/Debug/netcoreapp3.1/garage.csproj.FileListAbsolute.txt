@@ -1,0 +1,13 @@
+C:\Users\Olga\source\repos\labs\garage\bin\Debug\netcoreapp3.1\garage.exe
+C:\Users\Olga\source\repos\labs\garage\bin\Debug\netcoreapp3.1\garage.deps.json
+C:\Users\Olga\source\repos\labs\garage\bin\Debug\netcoreapp3.1\garage.runtimeconfig.json
+C:\Users\Olga\source\repos\labs\garage\bin\Debug\netcoreapp3.1\garage.runtimeconfig.dev.json
+C:\Users\Olga\source\repos\labs\garage\bin\Debug\netcoreapp3.1\garage.dll
+C:\Users\Olga\source\repos\labs\garage\bin\Debug\netcoreapp3.1\garage.pdb
+C:\Users\Olga\source\repos\labs\garage\obj\Debug\netcoreapp3.1\garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\source\repos\labs\garage\obj\Debug\netcoreapp3.1\garage.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\labs\garage\obj\Debug\netcoreapp3.1\garage.AssemblyInfo.cs
+C:\Users\Olga\source\repos\labs\garage\obj\Debug\netcoreapp3.1\garage.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\labs\garage\obj\Debug\netcoreapp3.1\garage.dll
+C:\Users\Olga\source\repos\labs\garage\obj\Debug\netcoreapp3.1\garage.pdb
+C:\Users\Olga\source\repos\labs\garage\obj\Debug\netcoreapp3.1\garage.genruntimeconfig.cache
